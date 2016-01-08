@@ -1,0 +1,43 @@
+{
+	"status":"ok",
+	"post":{
+		"id":86,
+		"type":"mksdc-datasets",
+		"slug":"created-a-dataset",
+		"url":"http:\/\/www.mksmart.org\/datareg\/?mksdc-datasets=created-a-dataset",
+		"status":"publish",
+		"title":"Created a dataset",
+		"title_plain":"Created a dataset",
+		"content":"",
+		"excerpt":"",
+		"date":"2014-09-12 10:35:05",
+		"modified":"2014-09-12 14:04:46",
+		"categories":[],
+		"tags":[],
+		"author":{
+			"id":9,
+			"slug":"enridaga",
+			"name":"enridaga",
+			"first_name":"Enrico",
+			"last_name":"Daga",
+			"nickname":"enridaga",
+			"url":"",
+			"description":""
+		},
+		"comments":[],
+		"attachments":[],
+		"comment_count":0,
+		"comment_status":"open",
+		"custom_fields":{},
+		"acf":{
+			"_edit_lock":["1410532314:9"],
+			"_edit_last":["9"],
+			"_mksdc_collection_refresh_key":[""],
+			"_mksdc_collection_runit_key":["second"],
+			"_mksdc_nbcomponent_key":["1"],
+			"_mksdc_component_1_key":[""],
+			"_mksdc_component_param_1_key":[""]
+		}
+	},
+	"previous_url":"http:\/\/www.mksmart.org\/datareg\/?mksdc-datasets=the-catalogue-test-dataset"
+}
